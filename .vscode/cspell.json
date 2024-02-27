@@ -1,0 +1,21 @@
+{
+  "version": "0.2",
+  "language": "en",
+  "ignorePaths": [
+    "node_modules/**",
+    "*.json"
+  ],
+  "words": [
+    "gapi",
+    "listitem",
+    "mantine",
+    "markdownit",
+    "mimetext",
+    "nuqs",
+    "papaparse",
+    "partialize",
+    "tabler",
+    "zenv",
+    "zustand"
+  ]
+}
